@@ -24,7 +24,7 @@ During the analysis, several important findings emerged:
     - **Non-binary employees** represent **8.5%** of total staff.
         
 - Employees who **identify as white** have the **highest average salary**, while those identifying as **mixed or multiple ethnic groups** show one of the **lowest average salaries**.
-- These insights highlight potential **disparities in diversity and inclusion**, offering Atlas Labs opportunities to **rethink hiring and compensation strategies**.
+- These insights highlight potential **disparities in diversity and inclusion**, offering Peoplely opportunities to **rethink hiring and compensation strategies**.
 
 A key question raised during this exploration was:
 
@@ -69,7 +69,7 @@ Each folder represents a key part of the report development process, from raw da
 The completed report delivers:
 
 - **Actionable insights** into employee demographics and attrition.
-- A **professional visual design**, aligning with Atlas Labs’ branding.
+- A **professional visual design**, aligning with Peoplely’ branding.
 - **Interactive dashboards** allowing HR teams to explore data dynamically.
 
 ## Tools & Skills Used
