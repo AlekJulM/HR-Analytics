@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Power BI project focuses on **analyzing employee attrition and diversity metrics** at _Atlas Labs_.  
+This Power BI project focuses on **analyzing employee attrition and diversity metrics** at Peoplely.  
 The goal is to uncover meaningful insights that can help the organization improve its **hiring strategies**, **diversity efforts**, and **overall employee retention**.
 
 Throughout this report, I developed:
